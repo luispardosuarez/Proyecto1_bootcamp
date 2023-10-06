@@ -1,0 +1,16 @@
+@import "./reset_style.css";
+@import "./main_style.css";
+@import "./footer_style.css";
+
+
+
+* {
+    background-color: #eee;
+}
+
+#portada {
+    background-color: aqua;
+}
+h3 {
+    font-size: 50;
+}
